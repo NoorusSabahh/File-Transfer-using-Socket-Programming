@@ -12,6 +12,8 @@ transferred correctly It can also handle the case when the server is offline or 
 3. Follow the prompts on the client to specify the file to be transferred and the destination path.
 4. The file will be transferred from the client to the server.
 
+<img src='C:\Users\Noor us Sabah\OneDrive\Pictures\Screenshots\Socket.png" width='600' height='400'>
+                                                                                                   
 ## Requirements
 Python 3.x
 
