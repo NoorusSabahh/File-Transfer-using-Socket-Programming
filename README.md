@@ -14,6 +14,8 @@ transferred correctly It can also handle the case when the server is offline or 
 
 ![Sample Screenshot](screenshot.png)
 
+![Screenshot](https://user-images.githubusercontent.com/128460719/235200702-9d6ded17-544b-4d3c-96b4-ca32f9206cd4.png)
+
 
                                                                                                    
 ## Requirements
